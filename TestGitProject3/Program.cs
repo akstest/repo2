@@ -10,7 +10,7 @@ namespace TestGitProject3
     {
         static void Main(string[] args)
         {
-            Console.Write("World");
+            Console.Writei("power World");
         }
     }
 }
